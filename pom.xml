@@ -28,12 +28,12 @@
     <repository>
         <id>central</id>
         <name>master-releases</name>
-        <url>http://18.204.205.34:8081/artifactory/shivarkrepo</url>
+        <url>http://18.204.205.34:8081/artifactory/harirepo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>master-snapshots</name>
-        <url>http://18.204.205.34:8081/artifactory/shivarkrepo</url>
+        <url>http://18.204.205.34:8081/artifactory/harirepo</url>
     </snapshotRepository>
 </distributionManagement>
 
