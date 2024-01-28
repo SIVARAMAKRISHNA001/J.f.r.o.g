@@ -24,16 +24,16 @@
     </dependency>
   </dependencies>
   
- <distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>practice-releases</name>
-        <url>http://54.152.69.84:8081/artifactory/srktutes</url>
+        <name>master-releases</name>
+        <url>http://18.204.205.34:8081/artifactory/srktutesrepo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>practice-snapshots</name>
-        <url>http://54.152.69.84:8081/artifactory/srktutes</url>
+        <name>master-snapshots</name>
+        <url>http://18.204.205.34:8081/artifactory/srktutesrepo</url>
     </snapshotRepository>
 </distributionManagement>
 
